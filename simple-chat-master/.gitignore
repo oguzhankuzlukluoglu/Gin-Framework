@@ -1,0 +1,10 @@
+.code
+.vscode
+.env
+.idea
+.idea/
+
+.code/
+.vscode/
+simple-chat
+chat-db
