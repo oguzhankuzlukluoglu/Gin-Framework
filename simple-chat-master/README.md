@@ -12,7 +12,5 @@ Go Realtime messaging app server
 - Go-socket
 - Jwt-go
 
-## Credits
-- solnsumei@gmail.com
 
 
